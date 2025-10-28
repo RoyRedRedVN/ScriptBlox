@@ -1,55 +1,67 @@
-ScriptBlox — Smarter, Safer, and Faster Script Finder
+# 📱 ScriptBlox
 
-🌟 Overview
+> ⚡ A fast, safe, and modern Android app to find Roblox game scripts — built with Sketchware Pro and Google’s Material 3 design system.
 
-ScriptBlox is a modern Android application designed to help users quickly and securely find game scripts without the need to browse multiple unreliable websites. Built with a sleek Material You (Material 3) interface inspired by Google’s design principles, ScriptBlox offers both functionality and familiarity — making it not just powerful, but also pleasant to use.
+---
 
-⚡ Key Features
+## 🌟 Overview
+**ScriptBlox** is an Android application designed to make script searching faster, safer, and more enjoyable.  
+Instead of visiting multiple websites or unsafe sources, users can instantly find scripts within the app — neatly organized and easy to access.
 
-🔍 Instant Script Search
+With a clean **Material 3** (Material You) UI inspired by Google’s design system, ScriptBlox delivers both a smooth user experience and strong performance — all built completely in **Sketchware Pro**.
 
-ScriptBlox provides a fast and efficient search system that lets users discover scripts for their favorite games in seconds. Instead of wasting time scrolling through websites or Discord channels, everything is available directly within the app — with clean formatting, readable information, and one-tap copy or open actions.
+---
 
-🔐 Safe & Secure Environment
+## 🚀 Features
 
-Security is a top priority.
-All scripts are delivered from trusted sources, and the app ensures that no harmful links or unsafe content are ever displayed. ScriptBlox uses built-in protection and request validation to keep user data private and safe from third-party trackers or malicious scripts.
+### 🔍 Fast Script Search
+- Search for scripts instantly without loading heavy web pages.  
+- Organized layout for readability and quick access.  
+- One-tap copy or open links directly.
 
-🎨 Material 3 — The Google Feel You Love
+### 🔐 Safe & Secure
+- No harmful links or trackers.  
+- Scripts fetched only from trusted APIs.  
+- Focus on privacy and data protection.
 
-ScriptBlox is designed with Material 3 (Material You) components, offering a modern interface that adapts to your device’s theme.
+### 🎨 Material 3 (Material You)
+- Modern Google-style design.  
+- Dynamic colors that adapt to system theme.  
+- Smooth animations and rounded corners.  
+- Supports both light and dark mode.
 
-Smooth animations
+### ⚙️ Built with Sketchware Pro
+ScriptBlox is proudly developed using **Sketchware Pro**, proving that even with visual programming tools, you can create **professional, secure, and performant apps**.  
+Under the hood, the app uses:
+- JSON parsing with Gson  
+- RecyclerView with shimmer effects  
+- Error handling & optimization  
+- API data caching for better performance
 
-Rounded cards and dynamic colors
+---
 
-Easy navigation with a bottom bar
+## 🧠 Highlights
+- Lightweight & battery friendly  
+- Real-time updates for new scripts  
+- Auto-refresh & offline-ready  
+- Community-driven design
 
-Light and dark mode compatibility
+---
 
+## 🛠️ Tech Stack
+- **Language:** Java  
+- **Framework:** Sketchware Pro  
+- **UI:** Material 3 / Material You  
+- **Libraries:** Gson, RecyclerView, Shimmer  
 
-Everything feels native and familiar, just like official Google apps.
+---
 
-⚙️ Built Using Sketchware Pro
+## 💬 Developer Vision
+> ScriptBlox was created to simplify script discovery.  
+> No more shady websites or endless searches — just a clean, fast, and secure experience.  
+> Made by a developer who loves both creativity and safety ❤️
 
-ScriptBlox was developed entirely with Sketchware Pro, a visual programming platform for Android.
-This makes the app not only a technical project but also a creative showcase of what’s possible when innovation meets simplicity. Despite being made on Sketchware, ScriptBlox integrates advanced features like API fetching, JSON parsing, RecyclerView optimization, and shimmer loading effects — all fine-tuned for performance and smooth UX.
+---
 
-🧠 Smart Experience
-
-Auto-refresh and caching for faster loading
-
-Real-time updates to keep scripts up-to-date
-
-Error handling and offline support
-
-Lightweight size and low battery usage
-
-
-🛠️ Developer Vision
-
-ScriptBlox was created for the community — by someone who understands how frustrating and unsafe script searching on random websites can be. The goal is to make script discovery simple, beautiful, and secure.
-
-💬 Conclusion
-
-ScriptBlox isn’t just another script database — it’s a revolution in how we access, explore, and manage scripts. With speed, safety, and a beautiful Material 3 design, ScriptBlox brings the best of modern Android design and user trust into one smart package — made possible through Sketchware Pro innovation.
+## 📸 Screenshots
+*(Add your screenshots here once available)*  
