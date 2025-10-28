@@ -5,63 +5,83 @@
 ---
 
 ## 🌟 Overview
-**ScriptBlox** is an Android application designed to make script searching faster, safer, and more enjoyable.  
-Instead of visiting multiple websites or unsafe sources, users can instantly find scripts within the app — neatly organized and easy to access.
+**ScriptBlox** is an Android application designed to make finding game scripts faster, safer, and simpler.  
+Instead of visiting multiple websites or unsafe sources, users can instantly search for scripts directly inside the app — organized, clean, and accessible with just one tap.
 
-With a clean **Material 3** (Material You) UI inspired by Google’s design system, ScriptBlox delivers both a smooth user experience and strong performance — all built completely in **Sketchware Pro**.
+Built with **Material 3 (Material You)** and **Sketchware Pro**, ScriptBlox combines Google’s design philosophy with modern functionality and strong performance.
 
 ---
 
 ## 🚀 Features
 
 ### 🔍 Fast Script Search
-- Search for scripts instantly without loading heavy web pages.  
-- Organized layout for readability and quick access.  
-- One-tap copy or open links directly.
+- Quickly find scripts for your favorite games.  
+- Clean and minimal layout for easy reading.  
+- One-tap copy and open functions.
 
 ### 🔐 Safe & Secure
-- No harmful links or trackers.  
-- Scripts fetched only from trusted APIs.  
-- Focus on privacy and data protection.
+- Scripts come only from trusted sources.  
+- No malicious links or tracking scripts.  
+- Privacy-focused with secure API handling.
 
-### 🎨 Material 3 (Material You)
-- Modern Google-style design.  
-- Dynamic colors that adapt to system theme.  
-- Smooth animations and rounded corners.  
-- Supports both light and dark mode.
+### 🎨 Material 3 Design
+- Familiar Google-inspired interface.  
+- Smooth transitions and rounded cards.  
+- Supports both light and dark modes.  
+- Dynamic colors that match your device theme.
 
 ### ⚙️ Built with Sketchware Pro
-ScriptBlox is proudly developed using **Sketchware Pro**, proving that even with visual programming tools, you can create **professional, secure, and performant apps**.  
-Under the hood, the app uses:
+ScriptBlox is fully developed using **Sketchware Pro**, showcasing what’s possible with visual coding tools.  
+Despite being built visually, the app includes:
 - JSON parsing with Gson  
-- RecyclerView with shimmer effects  
-- Error handling & optimization  
-- API data caching for better performance
+- RecyclerView optimizations and shimmer effects  
+- Custom gradient backgrounds  
+- Smooth loading and real-time updates  
 
 ---
 
 ## 🧠 Highlights
-- Lightweight & battery friendly  
-- Real-time updates for new scripts  
-- Auto-refresh & offline-ready  
-- Community-driven design
+- Lightweight & battery efficient  
+- Auto-refresh and caching for faster loading  
+- Error handling and offline-ready experience  
+- Modern UI with Material You components  
 
 ---
 
 ## 🛠️ Tech Stack
 - **Language:** Java  
 - **Framework:** Sketchware Pro  
-- **UI:** Material 3 / Material You  
+- **UI Framework:** Material 3 / Material You  
 - **Libraries:** Gson, RecyclerView, Shimmer  
 
 ---
 
 ## 💬 Developer Vision
-> ScriptBlox was created to simplify script discovery.  
-> No more shady websites or endless searches — just a clean, fast, and secure experience.  
-> Made by a developer who loves both creativity and safety ❤️
+> ScriptBlox was created to make script searching **simple, safe, and stylish**.  
+> It’s built for the community — by someone who knows the pain of searching unreliable sites.  
+> The goal: **speed, safety, and simplicity**, all wrapped in a modern Material 3 design.
 
 ---
 
-## 📸 Screenshots
-*(Add your screenshots here once available)*  
+## 📦 Installation
+1. Download the latest APK from the [Releases](../../releases) page.  
+2. Install it on your Android device.  
+3. Open ScriptBlox and start discovering scripts instantly!
+
+---
+
+## 🧑‍💻 Contributing
+Contributions, ideas, and feedback are always welcome!  
+If you’d like to improve ScriptBlox or suggest a new feature, feel free to open an issue or pull request.
+
+---
+
+## 📜 License
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for more information.
+
+---
+
+### 💖 Credits
+Developed with ❤️ by **Red**  
+Powered by **Sketchware Pro**  
+Inspired by **Google’s Material You**
