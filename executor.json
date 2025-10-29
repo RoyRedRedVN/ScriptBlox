@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "6827489eb75aab68bcf4f805",
+    "name": "Cryptic",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://getcryptic.net",
+    "discord": "https://discord.gg/getcryptic",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/Cryptic.png",
+    "store": "https://reapstore.mysellauth.com/",
+    "type": "Free"
+  },
+  {
+    "_id": "6827a830b4a991ef3dd421e2",
+    "name": "MacSploit",
+    "patched": false,
+    "platform": "macOS",
+    "website": "https://raptor.fun",
+    "discord": "https://discord.gg/macsploit",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/MacSploit.png",
+    "store": "https://macsploit.sellsn.io",
+    "type": "Free"
+  },
+  {
+    "_id": "68eff65479a6f5a88cabfc28",
+    "name": "Xeno",
+    "patched": false,
+    "platform": "Windows",
+    "website": "https://xeno.onl",
+    "discord": "https://discord.gg/xe-no",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/Xeno.png",
+    "store": "",
+    "type": "Free"
+  },
+  {
+    "_id": "68eff758d177e5282870f0d7",
+    "name": "Delta",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://deltaexploits.gg",
+    "discord": "https://discord.gg/deltax",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/Delta.webp",
+    "store": "",
+    "type": "Free"
+  },
+  {
+    "_id": "68f002ff640965025e62fbde",
+    "name": "Seliware",
+    "patched": false,
+    "platform": "Windows",
+    "website": "https://seliware.com",
+    "discord": "https://discord.gg/nzEggEE9vx",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/Seliware.png",
+    "store": "https://robloxcheatz.com/group/seliware",
+    "type": "Free"
+  },
+  {
+    "_id": "68f00d43a45ae90913f4df9e",
+    "name": "Codex",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://codex.lol/",
+    "discord": "https://discord.gg/codexlol",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/Codex.png",
+    "store": "https://roxploits.com/",
+    "type": "Free"
+  },
+  {
+    "_id": "68f00f46caf345977155a253",
+    "name": "Wave",
+    "patched": false,
+    "platform": "Windows",
+    "website": "https://getwave.gg/",
+    "thumbnail": "https://scriptblox.com/images/exec/thumbs/Wave.gif",
+    "store": "https://roxploits.com/",
+    "type": "Free",
+    "discord": "https://discord.gg/Xd99Q2XZ"
+  },
+  {
+    "_id": "krnl-000000000000000000000001",
+    "name": "Krnl",
+    "patched": false,
+    "platform": "Windows",
+    "website": "https://krnl.cat/",
+    "discord": "",
+    "thumbnail": "https://i.ibb.co/BHdc0dSq/images-3.jpg",
+    "store": "",
+    "type": "Free"
+  },
+  {
+    "_id": "fluxus-000000000000000000000002",
+    "name": "Fluxus",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://fluxus.mobi/",
+    "discord": "",
+    "thumbnail": "https://i.ibb.co/BHdc0dSq/images-3.jpg",
+    "store": "",
+    "type": "Free"
+  }
+]
