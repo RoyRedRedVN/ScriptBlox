@@ -90,11 +90,11 @@
   {
     "_id": "fluxus-000000000000000000000002",
     "name": "Fluxus",
-    "patched": false,
+    "patched": true,
     "platform": "Android",
     "website": "https://fluxus.mobi/",
     "discord": "",
-    "thumbnail": "https://i.ibb.co/BHdc0dSq/images-3.jpg",
+    "thumbnail": "https://i.ibb.co/JwQQbGxt/ba6fdcd3ab4ebbdfe117d7575c706a59.png",
     "store": "",
     "type": "Free"
   }
