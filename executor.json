@@ -77,25 +77,80 @@
     "discord": "https://discord.gg/Xd99Q2XZ"
   },
   {
-    "_id": "krnl-000000000000000000000001",
+    "_id": "krnl-0000000000000000001",
     "name": "Krnl",
     "patched": false,
     "platform": "Windows",
     "website": "https://krnl.cat/",
-    "discord": "",
+    "discord": "https://discord.gg/getkrnl",
     "thumbnail": "https://i.ibb.co/BHdc0dSq/images-3.jpg",
     "store": "",
     "type": "Free"
   },
   {
-    "_id": "fluxus-000000000000000000000002",
+    "_id": "fluxus-00000000000000002",
     "name": "Fluxus",
     "patched": true,
     "platform": "Android",
-    "website": "https://fluxus.mobi/",
-    "discord": "",
+    "website": "http://fluxteam.net/",
+    "discord": "https://discord.gg/gAY9R4w8eT",
     "thumbnail": "https://i.ibb.co/JwQQbGxt/ba6fdcd3ab4ebbdfe117d7575c706a59.png",
     "store": "",
     "type": "Free"
-  }
+  },
+  {
+    "_id": "evon-0000000000000000003",
+    "name": "Evon",
+    "patched": true,
+    "platform": "Windows",
+    "website": "https://evon.cc/",
+    "discord": "https://discord.gg/YPbktCPH4",
+    "thumbnail": "https://ibb.co/HDJXfJw9",
+    "store": "",
+    "type": "Free"
+  },
+  {
+    "_id": "ronix-000000000000000004",
+    "name": "Ronix",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://ronixstudios.io/",
+    "discord": "https://discord.gg/radius",
+    "thumbnail": "https://ibb.co/3mqqnfcy",
+    "store": "https://ronixstudios.io/#/premium",
+    "type": "Free"
+  },
+  {
+    "_id": "trigon-00000000000000005",
+    "name": "Trigon",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://trigonevo.com/",
+    "discord": "https://discord.gg/mkjEAvkdJ",
+    "thumbnail": "https://ibb.co/mVwv6y6G",
+    "store": "",
+    "type": "Free"
+  },
+  {
+    "_id": "arceusx-0000000000000006",
+    "name": "Arceus X",
+    "patched": false,
+    "platform": "Android",
+    "website": "https://spdmteam.com/",
+    "discord": "https://discord.gg/lugia",
+    "thumbnail": "https://ibb.co/LG82WG2",
+    "store": "https://store.spdmteam.com/",
+    "type": "Free"
+  },
+  {
+    "_id": "volcano-0000000000000007",
+    "name": "Volcano",
+    "patched": false,
+    "platform": "Windows",
+    "website": "https://volcano.wtf/",
+    "discord": "https://volcano.wtf/discord.html",
+    "thumbnail": "https://ibb.co/JwqYbwHL",
+    "store": "",
+    "type": "Free"
+  },
 ]
