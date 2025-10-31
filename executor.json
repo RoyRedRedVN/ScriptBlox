@@ -29,7 +29,7 @@
     "website": "https://xeno.onl",
     "discord": "https://discord.gg/xe-no",
     "thumbnail": "https://scriptblox.com/images/exec/thumbs/Xeno.png",
-    "store": "",
+    "store": "none",
     "type": "Free"
   },
   {
@@ -40,7 +40,7 @@
     "website": "https://deltaexploits.gg",
     "discord": "https://discord.gg/deltax",
     "thumbnail": "https://scriptblox.com/images/exec/thumbs/Delta.webp",
-    "store": "",
+    "store": "none",
     "type": "Free"
   },
   {
@@ -84,7 +84,7 @@
     "website": "https://krnl.cat/",
     "discord": "https://discord.gg/getkrnl",
     "thumbnail": "https://i.ibb.co/BHdc0dSq/images-3.jpg",
-    "store": "",
+    "store": "none",
     "type": "Free"
   },
   {
@@ -95,7 +95,7 @@
     "website": "http://fluxteam.net/",
     "discord": "https://discord.gg/gAY9R4w8eT",
     "thumbnail": "https://i.ibb.co/JwQQbGxt/ba6fdcd3ab4ebbdfe117d7575c706a59.png",
-    "store": "",
+    "store": "none",
     "type": "Free"
   },
   {
@@ -106,7 +106,7 @@
     "website": "https://evon.cc/",
     "discord": "https://discord.gg/YPbktCPH4",
     "thumbnail": "https://i.ibb.co/JRhCwh6S/ev.jpg",
-    "store": "",
+    "store": "none",
     "type": "Free"
   },
   {
@@ -128,7 +128,7 @@
     "website": "https://trigonevo.com/",
     "discord": "https://discord.gg/mkjEAvkdJ",
     "thumbnail": "https://i.ibb.co/Mx48M1Ms/images-2.jpg",
-    "store": "",
+    "store": "none",
     "type": "Free"
   },
   {
@@ -150,7 +150,7 @@
     "website": "https://volcano.wtf/",
     "discord": "https://volcano.wtf/discord.html",
     "thumbnail": "https://i.ibb.co/7dQ3TdKc/volcano.png",
-    "store": "",
+    "store": "none",
     "type": "Free"
-  },
+  }
 ]
